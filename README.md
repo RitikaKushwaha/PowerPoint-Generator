@@ -62,11 +62,9 @@ Step 2: Clone It 🐑
 
 - **Using Git** 
 
-Open your terminal and run the following command:
+Open your terminal and run:
 
-```bash
-git clone https://github.com/otahina/PowerPoint-Generator-Python-Project.git
-```
+
 
 - **Using Download ZIP**
 
@@ -168,15 +166,12 @@ Step 3: Clone it 🐑
 
 > ⚠️ **NOTE:** If you're not familiar with Git, using **GitHub Desktop Application** is a better start. If you choose this method, make sure to download it before continuing reading.
 >
-> ❗❗ Access link to download [**here**](https://desktop.github.com).
 
 - **Method 2:** Git
 
-Clone the **forked repository**. Open terminal (command prompt) and type:
+Clone the **forked repository**. Open terminal (command prompt):
 
-```bash
-git clone https://github.com/<your-github-username>/PowerPoint-Generator-Python-Project.git
-```
+
 
 > This makes a local copy of the repository in your machine.
 >
@@ -262,20 +257,8 @@ Here's a brief description of each key and how to obtain them:
 **PEXELS_API_KEY**: 🏞️ This key is used for the free image search API provided by Pexels. It's very useful for adding creative images to your presentations. You can get this key by creating a free account on the https://www.pexels.com/api
 After registering, the API key is automatically generated for you.
 
-## Community Discussions 🗣️
-Have a question, idea, or want to contribute? Join us in [Discussions](https://github.com/otahina/PowerPoint-Generator-Python-Project/discussions)!
-
-## Contributors ✨
-
-<img src="https://github.com/otahina.png" width="50" height="50" alt="description">
-<a href="https://github.com/otahina">Ota Hina</a>
-<img src="https://github.com/gaganmanku96.png" width="50" height="50" alt="description">
-<a href="https://github.com/gaganmanku96">Gagandeep Singh</a>
 
 
-## License 📄
-
-This project is licensed under the terms of the MIT license.
 
 
 
